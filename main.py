@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+# comentario de otro
+# comentario de yo
+import sys
+
+# mi propio comentario
+>>>>>>> otro
 
 import sys
 
@@ -26,7 +34,8 @@ def sumaNumeros(a, b):
 
 def restaNumeros(a, b):
     return a-b
-
+# tarea 1 agregar metodo de multiplicacion y division
+#lalalalal
 
 if __name__ == '__main__':
     try:
