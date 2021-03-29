@@ -23,6 +23,7 @@ def sumaNumeros(a, b):
 
 def restaNumeros(a, b):
     return a-b
+# tarea 1 agregar metodo de multiplicacion y division
 
 
 if __name__ == '__main__':
