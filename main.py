@@ -24,7 +24,7 @@ def sumaNumeros(a, b):
 def restaNumeros(a, b):
     return a-b
 # tarea 1 agregar metodo de multiplicacion y division
-
+#lalalalal
 
 if __name__ == '__main__':
     try:
