@@ -1,9 +1,5 @@
-# comentario de yo
+
 import sys
-
-# mi propio comentario
-
-# este comentario es para eliminar una rama
 
 
 def saludar():
