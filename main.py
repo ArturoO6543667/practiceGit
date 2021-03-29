@@ -5,7 +5,6 @@ import sys
 # este comentario es para eliminar una rama
 
 
-
 def saludar():
     print("hola a todos")
 
@@ -13,15 +12,18 @@ def saludar():
 def main():
     saludar()
     print(sumaNumeros(5, 6))
-    print(restaNumeros(6,5))
+    print(restaNumeros(6, 5))
+
 
 def sumaNumeros(a, b):
     return a+b
 
-def restaNumeros(a,b):
+
+def restaNumeros(a, b):
     return a-b
 
-__name__ == '__main__':
+
+if __name__ == '__main__':
     try:
         main()
     except KeyboardInterrupt:
